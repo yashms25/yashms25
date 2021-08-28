@@ -15,6 +15,8 @@
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
+  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/images/django-original.svg " alt="Django" width="40" height="40"/></code>
+  
 </p>
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashms25&show_icons=true&hide_border=true)
