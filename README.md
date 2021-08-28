@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I’m @YashMistry, a Tech Enthusiast🤎
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I’m @YashMistry, a Tech Developer🤎
 - 👀 I’m interested in collaborating with new people and work on exciting and challenging projects.
 - 🌱 I’m currently learning and improving my hold on web technologies.
 - 📫 You can reach me directly through my mail - yashmistry614@gmail.com
@@ -17,8 +17,15 @@
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/django-original.svg" alt="Django" width="40" height="40"/></code>
-  
+
 </p>
+[![Hello programmer Welcome!!](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/yashms25) 
+
+[![Repos Badge](https://badges.pufler.dev/repos/yashms25)](https://github.com/yashms25?tab=repositories) 
+[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:yashmistry614.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/yash-mistry-a231a521a) 
+
+
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashms25&show_icons=true&hide_border=true)
 <br />
