@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and improving my hold on web technologies.
 - 📫 You can reach me directly through my mail - yashmistry614@gmail.com
 
-### :zap: My Tech Toolbox 🧰
+### :zap: My Skills🔥
 
 <p align="left">
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
