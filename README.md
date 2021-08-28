@@ -19,7 +19,7 @@
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/django-original.svg" alt="Django" width="40" height="40"/></code>
 
 </p>
-[![Hello programmer Welcome!!](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/yashms25) 
+[![Hello programmer Welcome](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/yashms25) 
 
 [![Repos Badge](https://badges.pufler.dev/repos/yashms25)](https://github.com/yashms25?tab=repositories) 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:yashmistry614.com)
