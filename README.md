@@ -12,7 +12,8 @@
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>  
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/></code>  
+  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/></code>
+   <code><img src="https://github.com/kswann2/tech-logos/blob/master/bootstrap.png" alt="bootstrap" width="40" height="40"/></code> 
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
