@@ -27,5 +27,7 @@
 
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashms25&show_icons=true&hide_border=true)
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashms25"/>
+
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yashms25.yashms25)
