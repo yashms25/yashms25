@@ -30,7 +30,7 @@
 [![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Yashms25)
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:yashmistry614@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/yash-mistry-a231a521a/)
-[![Connect on Instagram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.linkedin.com/in/yash-mistry-a231a521a/)
+[![Connect on Instagram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/yashms25/)
 
 
 
