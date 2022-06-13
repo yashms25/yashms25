@@ -6,9 +6,9 @@
 ### :zap: Language And Tools🔥
 
 <p align="left">
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code> 
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>  
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
