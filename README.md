@@ -14,6 +14,9 @@
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" height="40"/></code> 
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" height="40"/></code>
+  
+  
    <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></code> 
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></code> 
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></code> 
@@ -21,10 +24,17 @@
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code> 
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code> 
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/></code>
   
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
-
+  
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></code>
+  
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></code>
+  
 </p>
 
 ### Connect With Me✌️
