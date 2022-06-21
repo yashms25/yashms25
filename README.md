@@ -46,8 +46,27 @@
 
 
 
+
+## GitHub Stats
+
+<br>
+
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashms25&show_icons=true&hide_border=true)
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashms25"/>
+
+<a href="https://github.com/yashfalke77">
+  <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashfalke77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<span>	&nbsp; 	&nbsp;</span>
+<a href="https://github.com/yashfalke77">
+  <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api?username=yashfalke77&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yash's GitHub Stats" />
+</a>
+<br>
+<br>
+<a href="http://www.github.com/yashfalke77"><img src="https://activity-graph.herokuapp.com/graph?username=yashfalke77&bg_color=1A2B34&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<br>
+<br>
 
 <br/>
 
