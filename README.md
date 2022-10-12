@@ -1,6 +1,6 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I’m @YashMistry, A Software Engineer🤎
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I’m @YashMistry, A Software Developer🤎
 - 👀 I’m interested in collaborating with new people and work on exciting and challenging projects.
-- 🌱 I’m currently learning and improving my hold on web technologies.
+- 🌱 I’m currently learning and improving my hold on web and mobile technologies.
 
 
 ### :zap: Language And Tools🔥
