@@ -60,7 +60,7 @@
 <span>	&nbsp; 	&nbsp;</span>
 <br>
 <br>
-<a href="http://www.github.com/yashms25"><img src="https://activity-graph.herokuapp.com/graph?username=yashms25&bg_color=1A2B34&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <br>
 <br>
